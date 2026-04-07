@@ -62,29 +62,7 @@
 //    }
 //}
 
-////wap to accept 5 numbers from user and calculate the average
-//import java.util.*;
-//public class Arithmatic {
-//    public static void main(String[] args) {
-//        Scanner input = new Scanner(System.in);
-//        System.out.println("Welcome to average machine");
-//
-//        double a,b,c,d,e,avg;
-//        System.out.println("Enter the value of a:");
-//        a = input.nextDouble();
-//        System.out.println("Enter the value of b:");
-//        b = input.nextDouble();
-//        System.out.println("Enter the value of c:");
-//        c = input.nextDouble();
-//        System.out.println("Enter the value of d:");
-//        d = input.nextDouble();
-//        System.out.println("Enter the value of e:");
-//        e = input.nextDouble();
-//
-//        avg = (a+b+c+d+e)/5;
-//        System.out.println("Average is"+avg);
-//    }
-//}
+
 
 ////wap to meter from user snd convert it into kilometer
 //import java.util.*;
@@ -129,26 +107,6 @@
 //    }
 // }
 
-//wap to accept working duty hour and minute of 2 employee from user nd calculate the total working hour
-import java.util.*;
-public class Arithmatic {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-
-        int h1,h2,m1,m2,tm,th;
-        System.out.println("Enter the hour and minute of 2 employee");
-        h1 = input.nextInt();
-        h2 = input.nextInt();
-        m1 = input.nextInt();
-        m2 = input.nextInt();
-        th = h1+h2;
-        tm = m1+m2;
-        th = th+tm/60;
-        tm = tm%60;
-        System.out.println("tota; hour"+th);
-        System.out.println("total minute"+tm);
-    }
-}
 
 
 
