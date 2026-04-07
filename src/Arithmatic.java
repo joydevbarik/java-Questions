@@ -115,37 +115,21 @@
 //    }
 //}
 
-////wap to accept salary from user and calculate income tax 20% of salary
-//import java.util.*;
-//public class Arithmatic {
+// //wap to accept salary from user and calculate income tax 20% of salary
+// import java.util.*;
+// public class Arithmatic {
 //    public static void main(String[] args) {
 //        Scanner input = new Scanner(System.in);
-//
+
 //        double sal,it;
 //        System.out.println("Enter the salary:");
 //        sal = input.nextDouble();
 //        it = sal*20/100;
 //        System.out.println("It is"+it);
 //    }
-//}
+// }
 
-////wap to accept number from user and calculate the quotient and remainder
-//import java.util.*;
-//public class Arithmatic {
-//    public static void main(String[] args) {
-//        Scanner input = new Scanner(System.in);
-//
-//        int n,q,r;
-//        System.out.println("Enter the value of n:");
-//        n = input.nextInt();
-//        q = n/5;
-//        r = n%5;
-//        System.out.println("The quotient value is"+q);
-//        System.out.println("The remainder value is"+r);
-//    }
-//}
-
-////wap to accept working duty hour and minute of 2 employee from user nd calculate the total working hour
+//wap to accept working duty hour and minute of 2 employee from user nd calculate the total working hour
 import java.util.*;
 public class Arithmatic {
     public static void main(String[] args) {
