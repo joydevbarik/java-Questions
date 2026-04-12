@@ -4,20 +4,7 @@
 
 //Math.floor for rounddown value
 //Math.ceil for roundup value
-////wap to accept two number from user and then calculate the roundup and rounddown value
-//import java.util.*;
-//public class Mathematical {
-//    public static void main(String[] args) {
-//        Scanner input = new Scanner(System.in);
-//        double n,ru,rd;
-//        System.out.println("Enter the value of n:");
-//        n = input.nextDouble();
-//        ru = Math.ceil(n);
-//        rd = Math.floor(n);
-//        System.out.println("The round up value is:"+ru);
-//        System.out.println("The round down value is"+rd);
-//    }
-//}
+
 
 //Math.abs() is for converting negative to positive number
 ////wap to accept negative number from user and convert it into positive
@@ -33,36 +20,9 @@
 //    }
 //}
 
-////wap to find out (a+b)^2
-//import java.util.*;
-//public class Mathematical {
-//    public static void main(String[] args){
-//        Scanner input = new Scanner(System.in);
+
 //
-//        double n,b,r;
-//        System.out.println("Enter the value of n:");
-//        n = input.nextDouble();
-//        System.out.println("Enter the value of b:");
-//        b = input.nextDouble();
-//        r = Math.pow(n,2)+Math.pow(b,2)+2*n*b;
-//        System.out.println("Result is"+r);
-//    }
-//}
-//
-//((a+b)^2)^3
-//import java.util.*;
-//public class Mathematical {
-//    public static void main(String[] args) {
-//        Scanner input = new Scanner(System.in);
-//        double a,b,r;
-//        System.out.println("Enter the value of a");
-//        a = input.nextDouble();
-//        System.out.println("Enter the value of b");
-//        b = input.nextDouble();
-//        r = Math.pow(Math.pow(a+b,2),3);
-//        System.out.println("The value of r is"+r);
-//    }
-//}
+
 
 //public class Mathematical {
 //    public static void main(String[] args) {
