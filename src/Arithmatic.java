@@ -15,24 +15,6 @@
 //    }
 //}
 
-
-
-
-
-////wap to meter from user snd convert it into kilometer
-//import java.util.*;
-//public class Arithmatic {
-//    public static void main(String[] args) {
-//        Scanner input = new Scanner(System.in);
-//
-//        double m,km;
-//        System.out.println("Enter the value of meter:");
-//        m = input.nextDouble();
-//        km = m/1000;
-//        System.out.println("The kilometer value is "+km);
-//    }
-//}
-
 ////wap to accept km from user and convert it into meter and cm
 //import java.util.*;
 //public class Arithmatic {
