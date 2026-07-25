@@ -27,7 +27,7 @@ class Animal {
     }
 }
 
-class Mammal extends Animal {
+class Mammal extends  Animal {
 
     int legs;
 }
